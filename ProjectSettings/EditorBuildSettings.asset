@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MixedRealityToolkit.ThirdParty/OculusQuestInput/Scenes/prvncherHandInteractionExamples2.unity
+    guid: e7c4e20b4cb519145b16687e63324c94
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0809e23583b123e44860694916ba032c,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f4d297c920df6ea43932f1efe40edd45,
+      type: 2}
